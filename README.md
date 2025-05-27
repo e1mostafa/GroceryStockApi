@@ -25,7 +25,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/grocery-stock-api.git
+git clone https://github.com/e1mostafa/grocery-stock-api.git
 Navigate to the project folder:
 
 bash
